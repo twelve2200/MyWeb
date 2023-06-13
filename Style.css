@@ -1,0 +1,19 @@
+﻿body
+{
+    background-color:  #000000;
+}
+
+.myHome
+{
+    background-color: #000000;
+    text-align:center;
+    height: 500px;
+}
+
+.myFooter
+{
+    text-align: center;
+    background-color: #000000;
+    height: 40px;
+}
+
