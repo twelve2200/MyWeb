@@ -1,0 +1,20 @@
+﻿body
+{
+    background-color:  #000000;
+}
+
+.myContains
+{
+    background-color: #000000;
+    height : auto;
+     height: 4400px;
+    
+}
+
+.myFooter
+{
+    text-align: center;
+    background-color: #000000;
+    height: 50px;
+}
+
